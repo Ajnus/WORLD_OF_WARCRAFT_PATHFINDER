@@ -2,4 +2,4 @@
 
 # WORLD OF WARCRAFT PATHFINDER
 
-Um Pathfinder para Baús de Tesouros de World of Warcraft utilizando Algoritmo de Dijkstra, concebido na época exercitando conhecimentos das aulas de Estruturas de Dados Avançadas. 
+Um Pathfinder para Baús de Tesouros de World of Warcraft utilizando o Algoritmo de Dijkstra, concebido na época exercitando conhecimentos das aulas de Estruturas de Dados Avançadas.
